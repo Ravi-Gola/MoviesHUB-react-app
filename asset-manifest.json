@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MoviesHUB-react-app%20/static/css/main.95d1dd58.css",
+    "main.js": "/MoviesHUB-react-app%20/static/js/main.fd7d29e8.js",
+    "static/js/787.15bad16d.chunk.js": "/MoviesHUB-react-app%20/static/js/787.15bad16d.chunk.js",
+    "index.html": "/MoviesHUB-react-app%20/index.html",
+    "main.95d1dd58.css.map": "/MoviesHUB-react-app%20/static/css/main.95d1dd58.css.map",
+    "main.fd7d29e8.js.map": "/MoviesHUB-react-app%20/static/js/main.fd7d29e8.js.map",
+    "787.15bad16d.chunk.js.map": "/MoviesHUB-react-app%20/static/js/787.15bad16d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95d1dd58.css",
+    "static/js/main.fd7d29e8.js"
+  ]
+}
